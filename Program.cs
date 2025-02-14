@@ -101,10 +101,17 @@ namespace BookstoreSystem
 
         public void DeleteBook(string isbn)
         {
-            Book bookToRemove = books.Find(b => b.ISBN == isbn);
+            if (books == null || books.Count == 0)
+            {
+                Console.WriteLine("The book list is empty.");
+                return;
+            }
+
+            Book bookToRemove = books.Find(b => b.ISBN.Equals(isbn, StringComparison.OrdinalIgnoreCase));
             if (bookToRemove != null)
             {
                 books.Remove(bookToRemove);
+                Console.WriteLine($"Book with ISBN {isbn} removed successfully.");
             }
             else
             {
