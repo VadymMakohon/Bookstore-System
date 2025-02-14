@@ -1,0 +1,15 @@
+/Users/vadymmakohon/Desktop/Bookstore-System/bin/Debug/net9.0/Bookstore-System
+/Users/vadymmakohon/Desktop/Bookstore-System/bin/Debug/net9.0/Bookstore-System.deps.json
+/Users/vadymmakohon/Desktop/Bookstore-System/bin/Debug/net9.0/Bookstore-System.runtimeconfig.json
+/Users/vadymmakohon/Desktop/Bookstore-System/bin/Debug/net9.0/Bookstore-System.dll
+/Users/vadymmakohon/Desktop/Bookstore-System/bin/Debug/net9.0/Bookstore-System.pdb
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.AssemblyInfoInputs.cache
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.AssemblyInfo.cs
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.csproj.CoreCompileInputs.cache
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.sourcelink.json
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.dll
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/refint/Bookstore-System.dll
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.pdb
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/Bookstore-System.genruntimeconfig.cache
+/Users/vadymmakohon/Desktop/Bookstore-System/obj/Debug/net9.0/ref/Bookstore-System.dll
