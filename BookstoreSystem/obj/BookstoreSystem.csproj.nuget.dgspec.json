@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadymmakohon/Desktop/Bookstore-System/Bookstore-System.csproj": {}
+    "/Users/vadymmakohon/Desktop/Bookstore-System/BookstoreSystem/BookstoreSystem.csproj": {}
   },
   "projects": {
-    "/Users/vadymmakohon/Desktop/Bookstore-System/Bookstore-System.csproj": {
+    "/Users/vadymmakohon/Desktop/Bookstore-System/BookstoreSystem/BookstoreSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadymmakohon/Desktop/Bookstore-System/Bookstore-System.csproj",
-        "projectName": "Bookstore-System",
-        "projectPath": "/Users/vadymmakohon/Desktop/Bookstore-System/Bookstore-System.csproj",
+        "projectUniqueName": "/Users/vadymmakohon/Desktop/Bookstore-System/BookstoreSystem/BookstoreSystem.csproj",
+        "projectName": "BookstoreSystem",
+        "projectPath": "/Users/vadymmakohon/Desktop/Bookstore-System/BookstoreSystem/BookstoreSystem.csproj",
         "packagesPath": "/Users/vadymmakohon/.nuget/packages/",
-        "outputPath": "/Users/vadymmakohon/Desktop/Bookstore-System/obj/",
+        "outputPath": "/Users/vadymmakohon/Desktop/Bookstore-System/BookstoreSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vadymmakohon/.nuget/NuGet/NuGet.Config"
